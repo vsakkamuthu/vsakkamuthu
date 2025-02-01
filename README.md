@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Sakkamuthu V, a botanist interesting in image processing  and plants.
+
+- I'm creating a bunch of local classifier models to spot diseases in plants grown at nurseries and home gardens. I look to expand my scope to farming once I succeed in this.
 
 <!--
 **vsakkamuthu/vsakkamuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
